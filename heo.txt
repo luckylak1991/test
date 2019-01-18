@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 con trau gia
+=======
+>>>>>>> parent of f8b2b01... commit to repo
